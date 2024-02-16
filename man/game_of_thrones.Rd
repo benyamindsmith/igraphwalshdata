@@ -3,7 +3,7 @@
 \docType{data}
 \name{game_of_thrones}
 \alias{game_of_thrones}
-\title{Game of Thrones Data}
+\title{Game of Thrones Social Network Data}
 \format{
 Nodes: 107; unimodal
 Edges: 353; weighted; undirected

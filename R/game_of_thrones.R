@@ -1,4 +1,4 @@
-#' Game of Thrones Data
+#' Game of Thrones Social Network Data
 #'
 #' Network data for character relationships within George R. R. Martin's \emph{A Storm of Swords}, the third novel in his series \emph{A Song of Ice and Fire} (also known as the HBO television adaptation \emph{Game of Thrones}).
 #'
