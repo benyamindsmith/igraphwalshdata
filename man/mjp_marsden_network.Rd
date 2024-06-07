@@ -3,8 +3,7 @@
 \docType{data}
 \name{mjp_marsden_network}
 \alias{mjp_marsden_network}
-\title{*The Freewoman* (1911-1912), *The New Freewoman* (1913), and *The Egoist* (1914-1919) Social Network Data
-Dora Marsden founded *The Freewoman* in 1911, a “Weekly Feminist Review” that, [according to the Modernist Journals Project](http://modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection), addressed "issues such as prostitution, homosexuality, and other matters relating to class and gender."}
+\title{*The Freewoman* (1911-1912), *The New Freewoman* (1913), and *The Egoist* (1914-1919) Social Network Data}
 \format{
 Nodes: 391; unimodal*
 Edges: 2,426; weighted; undirected
@@ -19,9 +18,11 @@ GitHub,
 mjp_marsden_network
 }
 \description{
-After struggling financially, *The Freewoman* closed within a year. Dora Marsen then launched a second journal, *The New Freewoman*, which was, according to the MJP, "more literary than its predecessor."
+Dora Marsden founded *The Freewoman* in 1911, a “Weekly Feminist Review” that, \href{http://modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection}{according to the Modernist Journals Project}, addressed "issues such as prostitution, homosexuality, and other matters relating to class and gender."
 }
 \details{
+After struggling financially, *The Freewoman* closed within a year. Dora Marsen then launched a second journal, *The New Freewoman*, which was, according to the MJP, "more literary than its predecessor."
+
 Shortly after Ezra Pound got involved with *The New Freewoman*, the magazine evolved into *The Egoist*, becoming one of the most important modernist magazines, which published novels by James Joyce and Wyndham Lewis as well as  poetry and criticism by Ezra Pound and T. S. Eliot.
 
 Notable authors who published in *The Freewoman* and are included in this dataset: Rebecca West, Muriel Ciolkowska, Dora Marsden ("Ed. of 'The Freewoman'"), and more.
