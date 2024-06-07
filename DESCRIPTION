@@ -1,10 +1,13 @@
 Package: igraphwalshdata
 Type: Package
-Title: More igraph datasets package
+Title: igraph datasets from Melanie Walsh.
 Version: 0.1.0
 Author: Benjamin Smith 
 Maintainer: Benjamin Smith <benyamin.smith@mail.utoronto.ca>
 Description: Interesting igraph datasets from Melanie Walsh's \href{https://github.com/melaniewalsh/sample-social-network-datasets/}{sample social network datasets repository}.
+Depends: R (>= 4.1.0)
+Suggests: 
+  igraph
 License: CC0
 Encoding: UTF-8
 LazyData: true
