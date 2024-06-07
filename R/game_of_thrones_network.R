@@ -14,10 +14,10 @@
 #' \emph{Driven by cause or circumstance, characters from the many noble families launch into arduous and intertwined journeys. Among these houses are the honorable Stark family (Eddard, Catelyn, Robb, Sansa, Arya, Bran, and Jon Snow), the pompous Lannisters (Tywin, Jaime, Cersei, Tyrion, and Joffrey), the slighted Baratheons (led by Robert’s brother Stannis) and the exiled Daenerys, the last of the once powerful House Targaryen.}"
 #'
 #' If you'd still like to know more about the source novel, you might also check out the \href{https://en.wikipedia.org/wiki/A_Storm_of_Swords}{Wikipedia page} or \href{https://www.youtube.com/watch?v=6N4gEJ_ED98}{this cheeky 8-minute beginner's guide} to the HBO show (warning: there are curse words aplenty).
-#' @name game_of_thrones
+#' @name game_of_thrones_network
 #' @docType data
 #' @usage
-#' game_of_thrones
+#' game_of_thrones_network
 #' @format
 #' Nodes: 107; unimodal
 #' Edges: 353; weighted; undirected

@@ -1,0 +1,23 @@
+#' 17th Century Quakers Social Network Data
+#'
+#' Network data for relationships between seventeenth-century Quakers, which was originally compiled by John Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart for their \href{https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python}{Programming Historian tutorial about NetworkX} (a Python package for working with network data).
+#'
+#' This Quaker data was excerpted from a larger dataset and project with which the authors are all associated, the very wonderful \href{http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network}{Six Degrees of Francis Bacon}, a reconstruction of the early modern social network of Britain (1500-1700).
+#'
+#' The relationships between seventeenth-century Quakers lend themselves well to social network analysis because, as the authors of the Programming Historian tutorial suggest, "scholars have long linked Quakers’ growth and endurance to the effectiveness of their networks":
+#'
+#' \emph{Before there were Facebook friends, there was the Society of Friends, known as the Quakers. Founded in England in the mid-seventeenth century, the Quakers were Protestant Christians who dissented from the official Church of England and promoted broad religious toleration, preferring Christians’ supposed “inner light” and consciences to state-enforced orthodoxy. Quakers’ numbers grew rapidly in the mid- to late-seventeenth century and their members spread through the British Isles, Europe, and the New World colonies—especially Pennsylvania, founded by Quaker leader William Penn and the home of your four authors.}
+#'
+#' @name quaker_network
+#' @docType data
+#' @usage
+#' quaker_network
+#' @format
+#' Nodes: 96; unimodal*
+#' Edges: 162; unweighted; undirected
+#'
+#'   This dataset is from Melanie Walsh. Prepared for R by Benjamin Smith
+#' @source GitHub,
+#'   <https://github.com/melaniewalsh/sample-social-network-datasets>
+#' @keywords datasets
+NULL
