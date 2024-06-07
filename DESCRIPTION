@@ -6,7 +6,7 @@ Author: Benjamin Smith
 Maintainer: Benjamin Smith <benyamin.smith@mail.utoronto.ca>
 Description: Interesting igraph datasets from Melanie Walsh's \href{https://github.com/melaniewalsh/sample-social-network-datasets/}{sample social network datasets repository}.
 Depends: R (>= 4.1.0)
-Github: 
+Github: https://github.com/benyamindsmith/igraphwalshdata
 Suggests: 
   igraph
 License: CC0
