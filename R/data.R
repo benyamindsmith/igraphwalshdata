@@ -26,7 +26,7 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
-#'
+#' @export
 
 #' Marvel Unimodal Network Data
 #'
@@ -54,6 +54,7 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
+#' @export
 
 #' Marvel Bimodal Network Data
 #'
@@ -81,7 +82,7 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
-
+#' @export
 
 #' Modernist Journals Project *The Crisis* (1910-1922) Social Network Data
 #'
@@ -105,6 +106,7 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
+#' @export
 
 
 #' *The Freewoman* (1911-1912), *The New Freewoman* (1913), and *The Egoist* (1914-1919) Social Network Data
@@ -146,6 +148,7 @@
 #'Notable authors who published in *The Little Review* and are included in this dataset : Amy Lowell, Richard Aldington, T.S. Eliot, Djuna Barnes, Alfred Kreymborg, James Joyce, and more.
 #'
 #'For more information, see the the Modernist Journals Project on \href{http://modjourn.org/render.php?view=mjp_object&id=1202232622296875}{*Poetry*} and \href{http://modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection}{*The Little Review*}.
+#' @export
 
 #' @name mjp_plr_network
 #' @docType data
@@ -179,6 +182,7 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
+#' @export
 
 #' 17th Century Quakers Social Network Data
 #'
@@ -202,6 +206,7 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
+#' @export
 
 
 #' Trump Social Network Data
@@ -227,4 +232,4 @@
 #' @source GitHub,
 #'   <https://github.com/melaniewalsh/sample-social-network-datasets>
 #' @keywords datasets
-
+#' @export
