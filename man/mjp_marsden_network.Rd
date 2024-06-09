@@ -18,7 +18,7 @@ GitHub,
 mjp_marsden_network
 }
 \description{
-Dora Marsden founded *The Freewoman* in 1911, a “Weekly Feminist Review” that, \href{http://modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection}{according to the Modernist Journals Project}, addressed "issues such as prostitution, homosexuality, and other matters relating to class and gender."
+Dora Marsden founded *The Freewoman* in 1911, a “Weekly Feminist Review” that, \href{https://modjourn.org/}{according to the Modernist Journals Project}, addressed "issues such as prostitution, homosexuality, and other matters relating to class and gender."
 }
 \details{
 After struggling financially, *The Freewoman* closed within a year. Dora Marsen then launched a second journal, *The New Freewoman*, which was, according to the MJP, "more literary than its predecessor."
@@ -31,6 +31,6 @@ Notable authors who published in *The New Freewoman* and are included in this da
 
 Notable authors who published in *The Egoist* and are included in this dataset : Amy Lowell, William Carlos Williams, Marianne Moore, Richard Aldington, Muriel Ciolkowska, Ezra Pound, Dora Marsen, T.S. Eliot, Wyndham Lewis, and more.
 
-For more information, see the Modernist Journals Project on \href{http://modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection}{*The Freewoman*}, \href{http://modjourn.org/render.php?view=mjp_object&id=NewFreewomanCollection}{*The New Freewoman*}, and \href{*The Egoist*}{http://modjourn.org/render.php?view=mjp_object&id=EgoistCollection}.
+For more information, see the Modernist Journals Project on \href{https://modjourn.org/journal/freewoman/}{*The Freewoman*}, \href{https://modjourn.org/journal/new-freewoman/}{*The New Freewoman*}, and \href{*The Egoist*}{https://modjourn.org/journal/egoist/}.
 }
 \keyword{datasets}

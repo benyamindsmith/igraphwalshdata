@@ -18,7 +18,7 @@ GitHub,
 marvel_network
 }
 \description{
-Network data for character relationships within the Marvel comic book universe (beginning in 1961 and ending around 1999/2000?), which was originally compiled by Cesc Rosselló, Ricardo Alberich, and Joe Miro from Russ Chappell's \href{http://www.chronologyproject.com/}{Marvel Chronology Project}, a database that catalogues every appearance by every significant character in the Marvel comic book universe. This network data was originally used and analyzed by Rosselló, Alberich, and Miro in \href{https://arxiv.org/pdf/cond-mat/0202174.pdf}{"Marvel Universe looks almost like a real social network."}
+Network data for character relationships within the Marvel comic book universe (beginning in 1961 and ending around 1999/2000?), which was originally compiled by Cesc Rosselló, Ricardo Alberich, and Joe Miro from Russ Chappell's \href{https://www.chronologyproject.com/}{Marvel Chronology Project}, a database that catalogues every appearance by every significant character in the Marvel comic book universe. This network data was originally used and analyzed by Rosselló, Alberich, and Miro in \href{http://arxiv.org/pdf/cond-mat/0202174}{"Marvel Universe looks almost like a real social network."}
 }
 \details{
 The Marvel Universe data lends itself well to basic social network analysis because there are a lot of characters, a lot of communities or teams of characters, and a lot of crossovers between those characters in individual comic books.
@@ -29,6 +29,6 @@ If you've been to the movies in the last 10 years, you might be familiar with th
 
 "\emph{The Marvel Universe network captures the social structure of this Marvel Universe, because most pairs of characters that have jointly appeared in the same comic book have fought shoulder to shoulder or each other, or have had some other strong relationship, like family ties or kidnapping. Thus, it shares, in its artificial way, the true social nature of scientific collaboration networks, while the way it has grown has echoes of the Hollywood network, as writers, directors and producers create their characters and assign them to actors in a way that somewhat resembles the way Marvel writers make characters appear in comic books.}"
 
-If you still need more information about the Marvel Universe to make sense of this data as a social network, you might take a look at \href{http://marvel.com/characters}{Marvel's breakdown of heroes, villains, and teams}.
+If you still need more information about the Marvel Universe to make sense of this data as a social network, you might take a look at \href{https://marvel.com/characters}{Marvel's breakdown of heroes, villains, and teams}.
 }
 \keyword{datasets}
