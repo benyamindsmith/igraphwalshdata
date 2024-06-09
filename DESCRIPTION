@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: c(
     person("Benjamin", "Smith",email="benyamin.smith@mail.utoronto.ca" , role = c("aut","cre"),
            comment = c(ORCID = "0009-0007-2206-0177")))
-Description: Interesting igraph datasets from Melanie Walsh's sample social network datasets repository <https://github.com/melaniewalsh/sample-social-network-datasets>.
+Description: Interesting 'igraph' datasets from Melanie Walsh's sample social network datasets repository <https://github.com/melaniewalsh/sample-social-network-datasets>.
 Depends: R (>= 4.1.0)
 Imports: 
   igraph

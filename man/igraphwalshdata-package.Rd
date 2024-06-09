@@ -6,7 +6,7 @@
 \alias{igraphwalshdata-package}
 \title{igraphwalshdata: 'igraph' Datasets from Melanie Walsh}
 \description{
-Interesting igraph datasets from Melanie Walsh's sample social network datasets repository \url{https://github.com/melaniewalsh/sample-social-network-datasets}.
+Interesting 'igraph' datasets from Melanie Walsh's sample social network datasets repository \url{https://github.com/melaniewalsh/sample-social-network-datasets}.
 }
 \seealso{
 Useful links:
