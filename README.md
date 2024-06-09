@@ -7,7 +7,7 @@ More Datasets for the igraph package. From Melanie Walsh's [sample social networ
 # Installing this package
 
 ```r
-devtools::install.packages("benyamindsmith/igraphwalshdata")
+devtools::install_github("benyamindsmith/igraphwalshdata")
 
 ```
 
