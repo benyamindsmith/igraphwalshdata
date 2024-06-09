@@ -1,20 +1,17 @@
 Package: igraphwalshdata
 Type: Package
-Title: 'igraph' datasets from Melanie Walsh
+Title: 'igraph' Datasets from Melanie Walsh
 Version: 0.1.0
 Authors@R: c(
     person("Benjamin", "Smith",email="benyamin.smith@mail.utoronto.ca" , role = c("aut","cre"),
            comment = c(ORCID = "0009-0007-2206-0177")))
 Description: Interesting igraph datasets from Melanie Walsh's sample social network datasets repository <https://github.com/melaniewalsh/sample-social-network-datasets>.
 Depends: R (>= 4.1.0)
-Github: https://github.com/benyamindsmith/igraphwalshdata
 Imports: 
   igraph
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
-URL: https://benyamindsmith.github.io/igraphwalshdata/
-Suggests: 
-    spelling
-Language: en-US
+URL: https://github.com/benyamindsmith/igraphwalshdata
+BugReports: https://github.com/benyamindsmith/igraphwalshdata/issues

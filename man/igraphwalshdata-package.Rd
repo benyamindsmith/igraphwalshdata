@@ -4,14 +4,15 @@
 \name{igraphwalshdata-package}
 \alias{igraphwalshdata}
 \alias{igraphwalshdata-package}
-\title{igraphwalshdata: 'igraph' datasets from Melanie Walsh}
+\title{igraphwalshdata: 'igraph' Datasets from Melanie Walsh}
 \description{
 Interesting igraph datasets from Melanie Walsh's sample social network datasets repository \url{https://github.com/melaniewalsh/sample-social-network-datasets}.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://benyamindsmith.github.io/igraphwalshdata/}
+  \item \url{https://github.com/benyamindsmith/igraphwalshdata}
+  \item Report bugs at \url{https://github.com/benyamindsmith/igraphwalshdata/issues}
 }
 
 }

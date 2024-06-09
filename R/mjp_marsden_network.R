@@ -12,7 +12,7 @@
 #'
 #' Notable authors who published in *The Egoist* and are included in this dataset : Amy Lowell, William Carlos Williams, Marianne Moore, Richard Aldington, Muriel Ciolkowska, Ezra Pound, Dora Marsen, T.S. Eliot, Wyndham Lewis, and more.
 #'
-#' For more information, see the Modernist Journals Project on \href{https://modjourn.org/journal/freewoman/}{*The Freewoman*}, \href{https://modjourn.org/journal/new-freewoman/}{*The New Freewoman*}, and \href{*The Egoist*}{https://modjourn.org/journal/egoist/}.
+#' For more information, see the Modernist Journals Project on \href{https://modjourn.org/journal/freewoman/}{*The Freewoman*}, \href{https://modjourn.org/journal/new-freewoman/}{*The New Freewoman*}, and \href{https://modjourn.org/journal/egoist/}{*The Egoist*}.
 
 #' @name mjp_marsden_network
 #' @docType data
