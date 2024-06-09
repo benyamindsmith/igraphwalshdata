@@ -7,4 +7,8 @@
 #'
 #' Get a list of data sets included in this package with
 #' `data(package = "igraphwalshdata")`.
+
+## usethis namespace: start
+#' @importFrom igraph vcount
+## usethis namespace: end
 NULL
