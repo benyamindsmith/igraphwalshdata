@@ -8,7 +8,7 @@ Authors@R: c(
 Description: Interesting igraph datasets from Melanie Walsh's sample social network datasets repository <https://github.com/melaniewalsh/sample-social-network-datasets>.
 Depends: R (>= 4.1.0)
 Github: https://github.com/benyamindsmith/igraphwalshdata
-Suggests: 
+Imports: 
   igraph
 License: CC0
 Encoding: UTF-8
