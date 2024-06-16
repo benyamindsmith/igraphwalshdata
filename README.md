@@ -9,6 +9,14 @@ More Datasets for the igraph package. From Melanie Walsh's [sample social networ
 
 # Installing this package
 
+To install from CRAN:
+
+```r
+install.packages("igraphwalshdata")
+```
+
+To install most recent developments: 
+
 ```r
 devtools::install_github("benyamindsmith/igraphwalshdata")
 
